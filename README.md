@@ -1,5 +1,5 @@
 HOLA AMORSITO, ESTE ES UN DETALLE SENCILLO PERO CON TODO EL CARIÑO
--------------------------------------------------------------------------------------------------------
+
 Instrucciones:
 
 Abre: https://colab.research.google.com/ 
