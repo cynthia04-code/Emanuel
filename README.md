@@ -1,7 +1,7 @@
 HOLA AMORSITO, ESTE ES UN DETALLE SENCILLO PERO CON TODO EL CARIÑO
 
 INSTRUCCIONES:
--------------------------------------------------------------------------------------------------------
+
 Abre: https://colab.research.google.com/ 
 -------------------------------------------------------------------------------------------------------
 Inicio: Haz clic en el botón que dice "+ Nuevo cuaderno".
