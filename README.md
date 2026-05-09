@@ -2,7 +2,7 @@ HOLA AMORSITO, ESTE ES UN DETALLE SENCILLO PERO CON TODO EL CARIÑO
 -------------------------------------------------------------------------------------------------------
 INSTRUCCIONES:
 -------------------------------------------------------------------------------------------------------
-Abre: https://colab.research.google.com/  (es una liga pero si no la puedes abrir busca "Google Colab"
+Abre: https://colab.research.google.com/ 
 -------------------------------------------------------------------------------------------------------
 Inico: Haz clic en el botón que dice "+ Nuevo cuaderno".
 -------------------------------------------------------------------------------------------------------
