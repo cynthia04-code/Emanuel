@@ -4,7 +4,7 @@ INSTRUCCIONES:
 -------------------------------------------------------------------------------------------------------
 Abre: https://colab.research.google.com/ 
 -------------------------------------------------------------------------------------------------------
-Inico: Haz clic en el botón que dice "+ Nuevo cuaderno".
+Inicio: Haz clic en el botón que dice "+ Nuevo cuaderno".
 -------------------------------------------------------------------------------------------------------
 Desarrollo: En el cuadro gris donde dice "Empieza a programar". copia el codigo que se encuentra en la seccion nombrada"sorpresa"
 -------------------------------------------------------------------------------------------------------
