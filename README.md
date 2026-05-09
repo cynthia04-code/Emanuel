@@ -10,3 +10,5 @@ Desarrollo: En el cuadro gris donde dice "Empieza a programar". copia el codigo 
 
 Final: Dale clic al botón de "Play" (el triángulo pequeño a la izquierda del código) y baja hasta el final de la página para ver lo que apareció.
 
+TE AMO INFINITAMENTE.
+
